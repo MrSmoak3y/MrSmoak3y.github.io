@@ -14,7 +14,7 @@
 
 :root {
     --bg-color: black;
-    --second-bg-color: lightblue;
+    --second-bg-color: lightgreen;
     --text-color: lightgreen;
     --main-color: #148985;
     --dark-color: #0a5d66;
@@ -385,6 +385,7 @@ font-size: 3rem;
 
 .footer-text p {
     font-size: 1.6rem;
+    color: black;
 }
 
 .footer-iconTop a {
