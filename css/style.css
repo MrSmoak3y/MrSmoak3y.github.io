@@ -9,7 +9,7 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: 'Open Sans'
+    font-family: 'Open Sans';
     }
 
 :root {
@@ -21,9 +21,11 @@
     }
 
 html {
-    font-size: 75%;
+    font-size: 75%; 
     overflow-x: hidden;
 }
+
+
 
 .multiple-text {
     font-family: 'Open Sans';
@@ -109,7 +111,7 @@ section {
 }
 
 span {
-    color: var(--main-color)
+    color: rgb(10, 223, 212)
 
 }
 
@@ -385,7 +387,7 @@ font-size: 3rem;
 
 .footer-text p {
     font-size: 1.6rem;
-    color: black;
+    color: black;;
 }
 
 .footer-iconTop a {
